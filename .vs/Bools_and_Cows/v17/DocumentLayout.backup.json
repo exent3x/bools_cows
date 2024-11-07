@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\korch\\source\\repos\\Bools_and_Cows\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCEEB9E-5B07-4317-B212-3200EE51C63D}|Bools_and_Cows\\Bools_and_Cows.vcxproj|C:\\Users\\korch\\source\\repos\\Bools_and_Cows\\Bools_and_Cows\\Bools_Cows_Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CCEEB9E-5B07-4317-B212-3200EE51C63D}|Bools_and_Cows\\Bools_and_Cows.vcxproj|solutionrelative:Bools_and_Cows\\Bools_Cows_Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCEEB9E-5B07-4317-B212-3200EE51C63D}|Bools_and_Cows\\Bools_and_Cows.vcxproj|C:\\Users\\korch\\source\\repos\\Bools_and_Cows\\Bools_and_Cows\\Bolls_Cows_Realization.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CCEEB9E-5B07-4317-B212-3200EE51C63D}|Bools_and_Cows\\Bools_and_Cows.vcxproj|solutionrelative:Bools_and_Cows\\Bolls_Cows_Realization.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCEEB9E-5B07-4317-B212-3200EE51C63D}|Bools_and_Cows\\Bools_and_Cows.vcxproj|C:\\Users\\korch\\source\\repos\\Bools_and_Cows\\Bools_and_Cows\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CCEEB9E-5B07-4317-B212-3200EE51C63D}|Bools_and_Cows\\Bools_and_Cows.vcxproj|solutionrelative:Bools_and_Cows\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bools_Cows_Functions.h",
+              "DocumentMoniker": "C:\\Users\\korch\\source\\repos\\Bools_and_Cows\\Bools_and_Cows\\Bools_Cows_Functions.h",
+              "RelativeDocumentMoniker": "Bools_and_Cows\\Bools_Cows_Functions.h",
+              "ToolTip": "C:\\Users\\korch\\source\\repos\\Bools_and_Cows\\Bools_and_Cows\\Bools_Cows_Functions.h*",
+              "RelativeToolTip": "Bools_and_Cows\\Bools_Cows_Functions.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-03T15:26:28.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\korch\\source\\repos\\Bools_and_Cows\\Bools_and_Cows\\main.cpp",
+              "RelativeDocumentMoniker": "Bools_and_Cows\\main.cpp",
+              "ToolTip": "C:\\Users\\korch\\source\\repos\\Bools_and_Cows\\Bools_and_Cows\\main.cpp",
+              "RelativeToolTip": "Bools_and_Cows\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T13:45:56.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bolls_Cows_Realization.cpp",
+              "DocumentMoniker": "C:\\Users\\korch\\source\\repos\\Bools_and_Cows\\Bools_and_Cows\\Bolls_Cows_Realization.cpp",
+              "RelativeDocumentMoniker": "Bools_and_Cows\\Bolls_Cows_Realization.cpp",
+              "ToolTip": "C:\\Users\\korch\\source\\repos\\Bools_and_Cows\\Bools_and_Cows\\Bolls_Cows_Realization.cpp",
+              "RelativeToolTip": "Bools_and_Cows\\Bolls_Cows_Realization.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T13:40:56.451Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
